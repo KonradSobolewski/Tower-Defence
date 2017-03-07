@@ -1,0 +1,646 @@
+# depslib dependency file v1.0
+1433007541 source:c:\users\konradsob\desktop\tower defense\main.cpp
+	<iostream>
+	"Wieza.h"
+	"Wrog.h"
+	"Pocisk.h"
+	"Gracz.h"
+	"Swiat.h"
+	<string>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<cstdio>
+	<windows.h>
+	<math.h>
+	<fstream>
+
+1433002047 c:\users\konradsob\desktop\tower defense\include\wieza.h
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+
+1433002047 source:c:\users\konradsob\desktop\tower defense\src\wieza.cpp
+	<iostream>
+	"Wieza.h"
+	"Wrog.h"
+	"Gracz.h"
+	"pocisk.h"
+	"Swiat.h"
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1430574788 source:c:\users\konradsob\desktop\2\main.cpp
+	<iostream>
+	"Wieza.h"
+	<string>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
+1430566222 c:\users\konradsob\desktop\2\include\wieza.h
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+
+1430566222 source:c:\users\konradsob\desktop\2\src\wieza.cpp
+	<iostream>
+	"Wieza.h"
+	<cstdlib>
+	<windows.h>
+
+1431123271 source:c:\users\konradsob\desktop\tower defense by sobek\main.cpp
+	<iostream>
+	"Wieza.h"
+	"Wrog.h"
+	<string>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<cstdio>
+	<windows.h>
+	<math.h>
+	"Pocisk.h"
+	"Gracz.h"
+	"Swiat.h"
+
+1431123886 c:\users\konradsob\desktop\tower defense by sobek\include\wieza.h
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+
+1431031401 source:c:\users\konradsob\desktop\tower defense by sobek\src\wieza.cpp
+	<iostream>
+	"Wieza.h"
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1431029303 c:\users\konradsob\desktop\tower defense by sobek\include\wrog.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1431123271 source:c:\users\konradsob\desktop\tower defense by sobek\src\wrog.cpp
+	"Wrog.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1431028362 c:\users\konradsob\desktop\tower defense by sobek\include\pocisk.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1431028352 source:c:\users\konradsob\desktop\tower defense by sobek\src\pocisk.cpp
+	"Pocisk.h"
+	"Wrog.h"
+	<iostream>
+	"Wieza.h"
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1431028128 c:\users\konradsob\desktop\tower defense by sobek\include\gracz.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1431123271 source:c:\users\konradsob\desktop\tower defense by sobek\src\gracz.cpp
+	"Gracz.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1431123783 c:\users\konradsob\desktop\tower defense by sobek\include\swiat.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1431123810 source:c:\users\konradsob\desktop\tower defense by sobek\src\swiat.cpp
+	"Swiat.h"
+	"Wieza.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1432719511 source:c:\users\konradsob\desktop\nowy folder\src\gracz.cpp
+	"Gracz.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433007827 c:\users\konradsob\desktop\nowy folder\include\gracz.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433199140 source:c:\users\konradsob\desktop\nowy folder\src\pocisk.cpp
+	"Pocisk.h"
+	"Wrog.h"
+	<iostream>
+	"Wieza.h"
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<Swiat.h>
+
+1433198085 c:\users\konradsob\desktop\nowy folder\include\pocisk.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433007827 c:\users\konradsob\desktop\nowy folder\include\wrog.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433002047 c:\users\konradsob\desktop\nowy folder\include\wieza.h
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+
+1433002047 source:c:\users\konradsob\desktop\nowy folder\src\wieza.cpp
+	<iostream>
+	"Wieza.h"
+	"Wrog.h"
+	"Gracz.h"
+	"pocisk.h"
+	"Swiat.h"
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433004920 source:c:\users\konradsob\desktop\nowy folder\src\wrog.cpp
+	"Wrog.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<Swiat.h>
+
+1433199349 source:c:\users\konradsob\desktop\nowy folder\src\swiat.cpp
+	"Swiat.h"
+	"Wieza.h"
+	"Gracz.h"
+	"Wrog.h"
+	"Pocisk.h"
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<typeinfo>
+	<new>
+
+1433198085 c:\users\konradsob\desktop\nowy folder\include\swiat.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<fstream>
+
+1433198725 source:c:\users\konradsob\desktop\nowy folder\main.cpp
+	<iostream>
+	"Wieza.h"
+	"Wrog.h"
+	"Pocisk.h"
+	"Gracz.h"
+	"Swiat.h"
+	<string>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<cstdio>
+	<windows.h>
+	<math.h>
+	<fstream>
+
+1433007827 c:\users\konradsob\desktop\tower defense\include\wrog.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1432857799 c:\users\konradsob\desktop\tower defense\include\pocisk.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433007827 c:\users\konradsob\desktop\tower defense\include\gracz.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433007827 c:\users\konradsob\desktop\tower defense\include\swiat.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<fstream>
+
+1432719511 source:c:\users\konradsob\desktop\tower defense\src\gracz.cpp
+	"Gracz.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433007438 source:c:\users\konradsob\desktop\tower defense\src\swiat.cpp
+	"Swiat.h"
+	"Wieza.h"
+	"Gracz.h"
+	"Wrog.h"
+	"Pocisk.h"
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<typeinfo>
+	<new>
+
+1433004920 source:c:\users\konradsob\desktop\tower defense\src\wrog.cpp
+	"Wrog.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<Swiat.h>
+
+1433007827 source:c:\users\konradsob\desktop\tower defense\src\pocisk.cpp
+	"Pocisk.h"
+	"Wrog.h"
+	<iostream>
+	"Wieza.h"
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<Swiat.h>
+
+1433253620 source:c:\users\konradsob\desktop\towerdefensev2\main.cpp
+	<iostream>
+	"Wieza.h"
+	"Wrog.h"
+	"Pocisk.h"
+	"Gracz.h"
+	"Swiat.h"
+	<string>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<cstdio>
+	<windows.h>
+	<math.h>
+	<fstream>
+
+1433002047 c:\users\konradsob\desktop\towerdefensev2\include\wieza.h
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+
+1433007827 c:\users\konradsob\desktop\towerdefensev2\include\wrog.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433198085 c:\users\konradsob\desktop\towerdefensev2\include\pocisk.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433251546 c:\users\konradsob\desktop\towerdefensev2\include\gracz.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433249151 c:\users\konradsob\desktop\towerdefensev2\include\swiat.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<fstream>
+
+1433253207 source:c:\users\konradsob\desktop\towerdefensev2\src\gracz.cpp
+	"Gracz.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433199140 source:c:\users\konradsob\desktop\towerdefensev2\src\pocisk.cpp
+	"Pocisk.h"
+	"Wrog.h"
+	<iostream>
+	"Wieza.h"
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<Swiat.h>
+
+1433254003 source:c:\users\konradsob\desktop\towerdefensev2\src\swiat.cpp
+	"Swiat.h"
+	"Wieza.h"
+	"Gracz.h"
+	"Wrog.h"
+	"Pocisk.h"
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<typeinfo>
+	<new>
+
+1433002047 source:c:\users\konradsob\desktop\towerdefensev2\src\wieza.cpp
+	<iostream>
+	"Wieza.h"
+	"Wrog.h"
+	"Gracz.h"
+	"pocisk.h"
+	"Swiat.h"
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433004920 source:c:\users\konradsob\desktop\towerdefensev2\src\wrog.cpp
+	"Wrog.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<Swiat.h>
+
+1434192095 source:c:\users\konradsob\desktop\tower defence\main.cpp
+	<iostream>
+	"Wieza.h"
+	"Wrog.h"
+	"Pocisk.h"
+	"Gracz.h"
+	"Swiat.h"
+	<string>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<cstdio>
+	<windows.h>
+	<math.h>
+	<fstream>
+
+1434194458 c:\users\konradsob\desktop\tower defence\include\wieza.h
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+
+1433007827 c:\users\konradsob\desktop\tower defence\include\wrog.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433198085 c:\users\konradsob\desktop\tower defence\include\pocisk.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433251546 c:\users\konradsob\desktop\tower defence\include\gracz.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433249151 c:\users\konradsob\desktop\tower defence\include\swiat.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<fstream>
+
+1433253207 source:c:\users\konradsob\desktop\tower defence\src\gracz.cpp
+	"Gracz.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433199140 source:c:\users\konradsob\desktop\tower defence\src\pocisk.cpp
+	"Pocisk.h"
+	"Wrog.h"
+	<iostream>
+	"Wieza.h"
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<Swiat.h>
+
+1434922617 source:c:\users\konradsob\desktop\tower defence\src\swiat.cpp
+	"Swiat.h"
+	"Wieza.h"
+	"Gracz.h"
+	"Wrog.h"
+	"Pocisk.h"
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<typeinfo>
+	<new>
+
+1433002047 source:c:\users\konradsob\desktop\tower defence\src\wieza.cpp
+	<iostream>
+	"Wieza.h"
+	"Wrog.h"
+	"Gracz.h"
+	"pocisk.h"
+	"Swiat.h"
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433004920 source:c:\users\konradsob\desktop\tower defence\src\wrog.cpp
+	"Wrog.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<Swiat.h>
+
+1434188495 source:c:\users\konradsob\desktop\pdf do nauki\tower defence\main.cpp
+	<iostream>
+	"Wieza.h"
+	"Wrog.h"
+	"Pocisk.h"
+	"Gracz.h"
+	"Swiat.h"
+	<string>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<cstdio>
+	<windows.h>
+	<math.h>
+	<fstream>
+
+1434190858 c:\users\konradsob\desktop\pdf do nauki\tower defence\include\wieza.h
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+
+1433004227 c:\users\konradsob\desktop\pdf do nauki\tower defence\include\wrog.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433194485 c:\users\konradsob\desktop\pdf do nauki\tower defence\include\pocisk.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433247946 c:\users\konradsob\desktop\pdf do nauki\tower defence\include\gracz.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433245551 c:\users\konradsob\desktop\pdf do nauki\tower defence\include\swiat.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<fstream>
+
+1433249607 source:c:\users\konradsob\desktop\pdf do nauki\tower defence\src\gracz.cpp
+	"Gracz.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433195540 source:c:\users\konradsob\desktop\pdf do nauki\tower defence\src\pocisk.cpp
+	"Pocisk.h"
+	"Wrog.h"
+	<iostream>
+	"Wieza.h"
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<Swiat.h>
+
+1434919017 source:c:\users\konradsob\desktop\pdf do nauki\tower defence\src\swiat.cpp
+	"Swiat.h"
+	"Wieza.h"
+	"Gracz.h"
+	"Wrog.h"
+	"Pocisk.h"
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<typeinfo>
+	<new>
+
+1432998447 source:c:\users\konradsob\desktop\pdf do nauki\tower defence\src\wieza.cpp
+	<iostream>
+	"Wieza.h"
+	"Wrog.h"
+	"Gracz.h"
+	"pocisk.h"
+	"Swiat.h"
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+
+1433001320 source:c:\users\konradsob\desktop\pdf do nauki\tower defence\src\wrog.cpp
+	"Wrog.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<vector>
+	<Swiat.h>
+
